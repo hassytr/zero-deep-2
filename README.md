@@ -1,2 +1,2 @@
 # zero-deep-2
-ゼロから作るDeep Learning ②
+ゼロから作るDeep Learning ②のコード
